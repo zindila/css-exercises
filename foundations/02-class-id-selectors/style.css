@@ -1,0 +1,19 @@
+.odd{
+    background-color: pink;
+    font-family: "Verdana, DejaVu Sans" , sans-serif;
+    font-size:20px;
+}
+.odd.big{
+    font-size: 24px;
+}
+.blue{
+    color:blue;
+    font-size: 36px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.green{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
